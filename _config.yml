@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Daniel Enriquez-Vera"
   avatar           : "/assets/image/me2412.png"
-  bio              : "Originally MD-Leukemist but one day came across with the crazy idea of doing a PhD. Passionate about leukemia/lymphoma/viruses and CAR-T therapies. Clinician-scientist aspirant"
+  bio              : "Hi there!, I am a MD-oncologist, but one day I came across with the crazy idea of pursuing a PhD. Passionate about leukemia/lymphoma/viruses and CAR-T therapies. Clinician-scientist aspirant."
   location         : "Kagoshima - Japan"
   email            : 
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/denve105"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "fab fa-orcid fa-fw"
+      url: "https://orcid.org/0000-0002-0855-8936"
 
 # Site Footer
 footer:
