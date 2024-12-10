@@ -140,19 +140,22 @@ author:
     - label: "ORCID"
       icon: "fab fa-orcid fa-fw"
       url: "https://orcid.org/0000-0002-0855-8936"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin fa-fw"
+      url: "https://linkedin.com/in/dev105"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/denve105"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/deve105"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -162,7 +165,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "ORCID"
+      icon: "fab fa-orcid fa-fw"
+      url: "https://orcid.org/0000-0002-0855-8936"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin fa-fw"
+      url: "https://linkedin.com/in/dev105"
 
 # Reading Files
 include:
